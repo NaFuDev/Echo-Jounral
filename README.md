@@ -28,7 +28,7 @@ To run this project locally, you'll need Node.js installed.
 
 Clone the repository:
 
-git clone https://github.com/your-username/echo-journal.git
+git clone https://github.com/NaFuDev/Echo-jounral.git
 cd echo-journal
 
 Install dependencies:
